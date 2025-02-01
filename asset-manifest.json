@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/creatulanding-celis/static/css/main.2ef0f111.css",
+    "main.js": "/creatulanding-celis/static/js/main.d96fe6c9.js",
+    "static/media/domingo.jpg": "/creatulanding-celis/static/media/domingo.d86805f9804bc413862b.jpg",
+    "static/media/alina.jpg": "/creatulanding-celis/static/media/alina.51f2bdd33ada4615b225.jpg",
+    "static/media/milu.jpg": "/creatulanding-celis/static/media/milu.41351efeb4f6c45629fb.jpg",
+    "static/media/impostor.jpg": "/creatulanding-celis/static/media/impostor.2f74226e274543d5ca6f.jpg",
+    "static/media/lafi.jpg": "/creatulanding-celis/static/media/lafi.f74b3d0164318e9931a8.jpg",
+    "static/media/pixelcart.png": "/creatulanding-celis/static/media/pixelcart.59593f9a3e8861cb40d7.png",
+    "index.html": "/creatulanding-celis/index.html",
+    "main.2ef0f111.css.map": "/creatulanding-celis/static/css/main.2ef0f111.css.map",
+    "main.d96fe6c9.js.map": "/creatulanding-celis/static/js/main.d96fe6c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef0f111.css",
+    "static/js/main.d96fe6c9.js"
+  ]
+}
