@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap");
+
+.item-list-container {
+    position: fixed;
+    top: 108px; /* Adjust based on the height of your header */
+    right: 25px;
+    width: 300px;
+    height: 400px;
+    background-color: hsl(47, 100%, 15%); 
+    color: white;
+    border: 3px solid black; /* Same border color as header title */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    z-index: 1000; /* Ensure it appears above other elements */
+  }
+  
+  .item-list-container h2 {
+    margin-top: 0;
+    color: hsl(47, 88%, 63%);
+    text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000;
+    font-family: "Pixelify Sans", serif;
+  }
+  
+  .item-list-container p {
+    margin-bottom: 0;
+    color: hsl(47, 88%, 63%);
+    text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000;
+    font-family: "Pixelify Sans", serif;
+  }
